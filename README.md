@@ -11,7 +11,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h3 align="left">I code with:</h3>
 
 ###
 
@@ -55,7 +55,7 @@
 
 ###
 
-<p align="left">Connect with me:</p>
+<h3 align="left">Connect with me:</h3>
 
 ###
 

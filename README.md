@@ -2,11 +2,11 @@
 
 ###
 
-<h4 align="left">· 🎓 Computer Science Student at University of Manitoba</h4>
+<h4 align="left">🎓 Computer Science Student at University of Manitoba</h4>
 
 ###
 
-<p align="left">· 🔭 I’m currently working on <b>Next.js and React.js</b><br><br>· 🌱 I’m currently learning <b>ML, LLMs, and retrieval-augmented generation (RAG) systems.</b><br><br>· 📫 How to reach me ohangpatel12@gmail.com</p>
+<p align="left">· 🔭 I’m currently working on <b>Next.js and React.js</b><br><br>· 🌱 I’m currently learning <b>ML, LLMs, and retrieval-augmented generation (RAG) systems.</b><br><br>· 📫 How to reach me <a>ohangpatel12@gmail.com</a></p>
 
 ###
 

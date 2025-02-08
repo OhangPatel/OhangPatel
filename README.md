@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">🎓 Computer Science Student at University of Manitoba</h4>
+<h3 align="left">🎓 Computer Science Student at University of Manitoba</h3>
 
 ###
 
